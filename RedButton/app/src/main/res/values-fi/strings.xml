@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Punainen painike</string>
+    <string name="action_about">Tietoja</string>
+    <string name="click_the_button_text">Klikkaa painiketta!</string>
+    <string name="you_won_text">Voitit pelin!</string>
+</resources>

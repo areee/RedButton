@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Röd knapp</string>
+    <string name="action_about">Information</string>
+    <string name="click_the_button_text">Klicka knappen!</string>
+    <string name="you_won_text">Du vann spelet!</string>
+</resources>
